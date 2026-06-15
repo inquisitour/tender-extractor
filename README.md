@@ -93,18 +93,7 @@ src/
 
 ## Pipeline
 
-```
-PDFs
- ↓  pdfParser        raw text + page map
- ↓  chunker          chunks with stable IDs (e.g. salzburg-chunk-0042)
- ↓  referenceResolver  annex/section cross-references linked bidirectionally
- ↓  documentGraph    chunk graph: who references whom
- ↓  candidateExtractor  LLM extracts candidate requirements per batch
- ↓  requirementMerger   embed candidates → cluster → LLM confirms merges
- ↓  hierarchyBuilder    LLM assigns L1/L2/L3 structure
- ↓  invariantChecker    validates all structural guarantees
- ↓  output/result.json
-```
+<img src="arch.png" width="400"/>
 
 The key architectural decision is that the document graph is built **before** any extraction happens. Not extract first and deduplicate after. But understand the document structure first; which chunks reference which annexes, which sections continue across pages so when the LLM identifies a requirement it already has the related chunks in scope.
 
