@@ -1,0 +1,1308 @@
+{
+  "sourceDocuments": [
+    {
+      "filename": "Tender_For_Christmas_Lights_Installation_2026.pdf",
+      "totalPages": 5,
+      "totalChunks": 14,
+      "language": "en"
+    }
+  ],
+  "processedAt": "2026-06-11T23:34:51.143Z",
+  "pipelineVersion": "1.0.0",
+  "tree": [
+    {
+      "requirementId": "NODE-0004",
+      "bulletPoint": "Tender Submission & Evaluation",
+      "description": {
+        "en": "Tender Submission & Evaluation",
+        "de": "Angebotseinreichung & Bewertung"
+      },
+      "priority": "must",
+      "confidence": "high",
+      "equivalenceAllowed": null,
+      "fullfillable": "yes",
+      "procurementDocumentChunkIdArray": [
+        "tender-for-christmas-chunk-0000",
+        "tender-for-christmas-chunk-0001",
+        "tender-for-christmas-chunk-0011",
+        "tender-for-christmas-chunk-0002",
+        "tender-for-christmas-chunk-0010"
+      ],
+      "status": "waitingForAnalysis",
+      "citedProductIdArray": [],
+      "citedPersonIdArray": [],
+      "workspaceDocumentChunkIdArray": [],
+      "deliverableArray": [
+        {
+          "requirementId": "NODE-0001",
+          "bulletPoint": "Submission Requirements",
+          "description": {
+            "en": "Submission Requirements",
+            "de": "Einreichungsanforderungen"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0000",
+            "tender-for-christmas-chunk-0001",
+            "tender-for-christmas-chunk-0011"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0002",
+              "bulletPoint": "Submit tender for 1, 2, or 3-year service agreement",
+              "description": {
+                "en": "Contractors are invited to submit tenders for a 1-year, 2-year, or 3-year service agreement.",
+                "de": "Auftragnehmer werden aufgefordert, Angebote für einen 1-, 2- oder 3-Jahres-Servicevertrag einzureichen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": true,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0000"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0003",
+              "bulletPoint": "Comply with all written requirements",
+              "description": {
+                "en": "The contractor must comply with all written requirements in the tender.",
+                "de": "Der Auftragnehmer muss alle schriftlichen Anforderungen der Ausschreibung erfüllen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0001"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0035",
+              "bulletPoint": "Submit tender in sealed marked envelope",
+              "description": {
+                "en": "Tenders must be submitted in writing in a sealed marked envelope addressed to the Town Clerk, with the envelope clearly marked 'Tender'.",
+                "de": "Angebote müssen schriftlich in einem versiegelten, gekennzeichneten Umschlag an den Town Clerk adressiert eingereicht werden, wobei der Umschlag deutlich mit 'Tender' gekennzeichnet sein muss."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0011"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0036",
+              "bulletPoint": "Tenders opened after deadline by Town Clerk with councillors",
+              "description": {
+                "en": "Tenders must be opened by the Town Clerk in the presence of at least two councillors after the deadline for submission has passed.",
+                "de": "Angebote müssen nach Ablauf der Einreichungsfrist vom Town Clerk in Anwesenheit von mindestens zwei Ratsmitgliedern geöffnet werden."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0011"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0037",
+              "bulletPoint": "No contact with councillors or staff outside prescribed process",
+              "description": {
+                "en": "No contractor shall contact councillors or staff to encourage or support their tender outside the prescribed process.",
+                "de": "Kein Auftragnehmer darf Ratsmitglieder oder Mitarbeiter kontaktieren, um ihr Angebot außerhalb des vorgeschriebenen Verfahrens zu fördern oder zu unterstützen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0011"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        },
+        {
+          "requirementId": "NODE-0002",
+          "bulletPoint": "Evaluation Criteria",
+          "description": {
+            "en": "Evaluation Criteria",
+            "de": "Bewertungskriterien"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0001"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0004",
+              "bulletPoint": "Provide satisfactory references",
+              "description": {
+                "en": "The contractor must have satisfactory references.",
+                "de": "Der Auftragnehmer muss zufriedenstellende Referenzen vorweisen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0001"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0005",
+              "bulletPoint": "Offer best value for money",
+              "description": {
+                "en": "The contractor must offer the best value for money.",
+                "de": "Der Auftragnehmer muss das beste Preis-Leistungs-Verhältnis bieten."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0001"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0006",
+              "bulletPoint": "Demonstrate ability to deliver similar projects",
+              "description": {
+                "en": "The contractor must demonstrate ability to deliver similar projects to a high quality (25% evaluation weight).",
+                "de": "Der Auftragnehmer muss die Fähigkeit nachweisen, ähnliche Projekte in hoher Qualität durchzuführen (25% Bewertungsgewicht)."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0001"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0007",
+              "bulletPoint": "Fit price within budget",
+              "description": {
+                "en": "The contractor's price must fit within the budget (25% evaluation weight).",
+                "de": "Der Preis des Auftragnehmers muss im Rahmen des Budgets liegen (25% Bewertungsgewicht)."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0001"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0008",
+              "bulletPoint": "Provide quality and value for money",
+              "description": {
+                "en": "The contractor must provide quality and value for money (30% evaluation weight).",
+                "de": "Der Auftragnehmer muss Qualität und Preis-Leistungs-Verhältnis bieten (30% Bewertungsgewicht)."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0001"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0009",
+              "bulletPoint": "Use local resources and skills",
+              "description": {
+                "en": "The contractor must use local resources and skills (20% evaluation weight).",
+                "de": "Der Auftragnehmer muss lokale Ressourcen und Fähigkeiten nutzen (20% Bewertungsgewicht)."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0001"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        },
+        {
+          "requirementId": "NODE-0003",
+          "bulletPoint": "Pricing & Payment",
+          "description": {
+            "en": "Pricing & Payment",
+            "de": "Preisgestaltung & Zahlung"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0002",
+            "tender-for-christmas-chunk-0010"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0010",
+              "bulletPoint": "Payment upon satisfactory completion",
+              "description": {
+                "en": "Payment will be made upon satisfactory completion of works.",
+                "de": "Die Zahlung erfolgt nach zufriedenstellender Fertigstellung der Arbeiten."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0002"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0034",
+              "bulletPoint": "Cost all items individually",
+              "description": {
+                "en": "The contractor must cost all items individually.",
+                "de": "Der Auftragnehmer muss alle Artikel einzeln bepreisen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0010"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirementId": "NODE-0008",
+      "bulletPoint": "Health & Safety Compliance",
+      "description": {
+        "en": "Health & Safety Compliance",
+        "de": "Gesundheits- & Sicherheitsvorschriften"
+      },
+      "priority": "must",
+      "confidence": "low",
+      "equivalenceAllowed": null,
+      "fullfillable": "yes",
+      "procurementDocumentChunkIdArray": [
+        "tender-for-christmas-chunk-0002",
+        "tender-for-christmas-chunk-0003",
+        "tender-for-christmas-chunk-0004",
+        "tender-for-christmas-chunk-0012",
+        "tender-for-christmas-chunk-0013"
+      ],
+      "status": "waitingForAnalysis",
+      "citedProductIdArray": [],
+      "citedPersonIdArray": [],
+      "workspaceDocumentChunkIdArray": [],
+      "deliverableArray": [
+        {
+          "requirementId": "NODE-0005",
+          "bulletPoint": "Legislative Compliance",
+          "description": {
+            "en": "Legislative Compliance",
+            "de": "Gesetzliche Einhaltung"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0002"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0011",
+              "bulletPoint": "Comply with health and safety legislation",
+              "description": {
+                "en": "Contractors must comply with all relevant health and safety legislation.",
+                "de": "Auftragnehmer müssen alle relevanten Gesundheits- und Sicherheitsvorschriften einhalten."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0002"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0013",
+              "bulletPoint": "Adhere to codes of practice and regulations",
+              "description": {
+                "en": "The contractor must adhere to relevant codes of practice and regulations, including erection, testing, and maintenance in accordance with BS 7671 by a competent person.",
+                "de": "Der Auftragnehmer muss die einschlägigen Verhaltenskodizes und Vorschriften einhalten, einschließlich der Errichtung, Prüfung und Wartung gemäß BS 7671 durch eine kompetente Person."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0002"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        },
+        {
+          "requirementId": "NODE-0006",
+          "bulletPoint": "Documentation & Insurance",
+          "description": {
+            "en": "Documentation & Insurance",
+            "de": "Dokumentation & Versicherung"
+          },
+          "priority": "must",
+          "confidence": "low",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0002",
+            "tender-for-christmas-chunk-0003",
+            "tender-for-christmas-chunk-0004",
+            "tender-for-christmas-chunk-0012",
+            "tender-for-christmas-chunk-0013"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0014",
+              "bulletPoint": "Produce Health & Safety Information prior to installation",
+              "description": {
+                "en": "The successful contractor will be expected to produce a Health & Safety Information prior to installation, including Risk Assessment, Method Statement, Schedule of Works, and any other relevant documents.",
+                "de": "Vom erfolgreichen Auftragnehmer wird erwartet, dass er vor der Installation eine Gesundheits- und Sicherheitsinformation erstellt, einschließlich Risikobewertung, Methodenbeschreibung, Arbeitsplan und aller anderen relevanten Dokumente."
+              },
+              "priority": "must",
+              "confidence": "medium",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0002",
+                "tender-for-christmas-chunk-0003"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0015",
+              "bulletPoint": "Provide Risk Assessment",
+              "description": {
+                "en": "The contractor must provide a Risk Assessment as part of the Health & Safety Information.",
+                "de": "Der Auftragnehmer muss im Rahmen der Gesundheits- und Sicherheitsinformation eine Risikobewertung vorlegen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0002"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0016",
+              "bulletPoint": "Provide Method Statement",
+              "description": {
+                "en": "The contractor must provide a Method Statement as part of the Health & Safety Information.",
+                "de": "Der Auftragnehmer muss im Rahmen der Gesundheits- und Sicherheitsinformation eine Methodenbeschreibung vorlegen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0002"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0017",
+              "bulletPoint": "Provide Schedule of Works",
+              "description": {
+                "en": "The contractor must provide a Schedule of Works as part of the Health & Safety Information.",
+                "de": "Der Auftragnehmer muss im Rahmen der Gesundheits- und Sicherheitsinformation einen Arbeitsplan vorlegen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0003"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0018",
+              "bulletPoint": "Provide any other relevant documents",
+              "description": {
+                "en": "The contractor must provide any other relevant documents such as General Health & Safety at Work Policy, accreditation certificates, and staff training certificates.",
+                "de": "Der Auftragnehmer muss alle anderen relevanten Dokumente wie allgemeine Gesundheits- und Sicherheitspolitik am Arbeitsplatz, Akkreditierungszertifikate und Mitarbeiterschulungszertifikate vorlegen."
+              },
+              "priority": "must",
+              "confidence": "low",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0003"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0019",
+              "bulletPoint": "Adequate insurance with public liability cover",
+              "description": {
+                "en": "The contractor must be adequately insured with public liability cover. A copy of the current insurance certificate must be included with the tender response.",
+                "de": "Der Auftragnehmer muss angemessen versichert sein, mit einer Betriebshaftpflichtversicherung. Eine Kopie der aktuellen Versicherungsbescheinigung muss der Angebotsabgabe beigefügt werden."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0004"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0038",
+              "bulletPoint": "Provide current public liability certificate",
+              "description": {
+                "en": "The supplier must provide a copy of their current public liability certificate.",
+                "de": "Der Lieferant muss eine Kopie seiner aktuellen Haftpflichtbescheinigung vorlegen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0012"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0039",
+              "bulletPoint": "Provide Highway Electrical Registration Scheme certificate",
+              "description": {
+                "en": "The supplier must provide a copy of their Highway Electrical Registration Scheme certificate.",
+                "de": "Der Lieferant muss eine Kopie seiner Bescheinigung des Highway Electrical Registration Scheme vorlegen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0012"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0040",
+              "bulletPoint": "Provide Health and Safety Policy",
+              "description": {
+                "en": "The supplier must provide a copy of their Health and Safety Policy.",
+                "de": "Der Lieferant muss eine Kopie seiner Gesundheits- und Sicherheitsrichtlinie vorlegen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0013"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        },
+        {
+          "requirementId": "NODE-0007",
+          "bulletPoint": "Public Safety",
+          "description": {
+            "en": "Public Safety",
+            "de": "Öffentliche Sicherheit"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0002"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0012",
+              "bulletPoint": "Minimize risk to the public",
+              "description": {
+                "en": "Measures must be taken to minimize any risk to the public, e.g., tools not left on pavement, vehicles parked without obstruction.",
+                "de": "Es müssen Maßnahmen ergriffen werden, um jedes Risiko für die Öffentlichkeit zu minimieren, z. B. Werkzeuge nicht auf dem Gehweg liegen lassen, Fahrzeuge ohne Behinderung parken."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0002"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirementId": "NODE-0012",
+      "bulletPoint": "Installation & Testing",
+      "description": {
+        "en": "Installation & Testing",
+        "de": "Installation & Prüfung"
+      },
+      "priority": "must",
+      "confidence": "high",
+      "equivalenceAllowed": null,
+      "fullfillable": "yes",
+      "procurementDocumentChunkIdArray": [
+        "tender-for-christmas-chunk-0006",
+        "tender-for-christmas-chunk-0008",
+        "tender-for-christmas-chunk-0010"
+      ],
+      "status": "waitingForAnalysis",
+      "citedProductIdArray": [],
+      "citedPersonIdArray": [],
+      "workspaceDocumentChunkIdArray": [],
+      "deliverableArray": [
+        {
+          "requirementId": "NODE-0009",
+          "bulletPoint": "Installation Schedule",
+          "description": {
+            "en": "Installation Schedule",
+            "de": "Installationszeitplan"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0006"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0021",
+              "bulletPoint": "Installation testing start date",
+              "description": {
+                "en": "Installation testing must begin on 1 November 2026.",
+                "de": "Die Installationstests müssen am 1. November 2026 beginnen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0006"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0022",
+              "bulletPoint": "Lights operational by one week prior to switch-on",
+              "description": {
+                "en": "The lights must be in working order no later than one week prior to the notified switch-on date of Saturday 28 November 2026.",
+                "de": "Die Lichter müssen spätestens eine Woche vor dem angegebenen Einschaltdatum, Samstag, 28. November 2026, funktionsfähig sein."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0006"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0023",
+              "bulletPoint": "Minimal disruption to traffic and environment",
+              "description": {
+                "en": "The work must be undertaken in a manner that causes little disruption to traffic (both vehicular and pedestrian) and with consideration for the environment.",
+                "de": "Die Arbeiten müssen so durchgeführt werden, dass sie den Verkehr (sowohl Fahrzeuge als auch Fußgänger) möglichst wenig beeinträchtigen und die Umwelt berücksichtigen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": true,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0006"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        },
+        {
+          "requirementId": "NODE-0010",
+          "bulletPoint": "Testing Requirements",
+          "description": {
+            "en": "Testing Requirements",
+            "de": "Prüfanforderungen"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0008",
+            "tender-for-christmas-chunk-0010"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0029",
+              "bulletPoint": "Test all anchor points",
+              "description": {
+                "en": "All anchor points must be tested.",
+                "de": "Alle Ankerpunkte müssen getestet werden."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0008"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0031",
+              "bulletPoint": "Test lights and features during downtime",
+              "description": {
+                "en": "All lights and features must be tested during downtime and any minor work such as replacing bulbs and fixing faulty connections must be undertaken.",
+                "de": "Alle Lichter und Funktionen müssen während der Ausfallzeit getestet werden, und alle kleineren Arbeiten wie der Austausch von Glühbirnen und die Behebung fehlerhafter Verbindungen müssen durchgeführt werden."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0010"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0032",
+              "bulletPoint": "Fully functional lights prior to installation",
+              "description": {
+                "en": "All lights and features must be fully functioning prior to installation.",
+                "de": "Alle Lichter und Funktionen müssen vor der Installation voll funktionsfähig sein."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0010"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        },
+        {
+          "requirementId": "NODE-0011",
+          "bulletPoint": "Switch-On & Timer Setup",
+          "description": {
+            "en": "Switch-On & Timer Setup",
+            "de": "Einschaltung & Zeitschaltuhr"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0006"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0024",
+              "bulletPoint": "Contractor presence on switch-on day",
+              "description": {
+                "en": "The contractor must be present on the day of the switch-on, Saturday 28 November 2026, to manually switch on the lights after a countdown.",
+                "de": "Der Auftragnehmer muss am Tag der Einschaltung, Samstag, 28. November 2026, anwesend sein, um die Lichter nach einem Countdown manuell einzuschalten."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0006"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0025",
+              "bulletPoint": "Automatic timer settings for lights",
+              "description": {
+                "en": "After the switch-on, the lights need to be set to their automatic timers so that they come on at 4pm and go off at 10pm on weekdays, and 4pm to 11pm on weekends.",
+                "de": "Nach der Einschaltung müssen die Lichter auf ihre automatischen Zeitschaltuhren eingestellt werden, sodass sie an Wochentagen um 16:00 Uhr angehen und um 22:00 Uhr ausgehen, an Wochenenden von 16:00 bis 23:00 Uhr."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0006"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirementId": "NODE-0015",
+      "bulletPoint": "Maintenance & Fault Response",
+      "description": {
+        "en": "Maintenance & Fault Response",
+        "de": "Wartung & Störungsbehebung"
+      },
+      "priority": "must",
+      "confidence": "high",
+      "equivalenceAllowed": null,
+      "fullfillable": "yes",
+      "procurementDocumentChunkIdArray": [
+        "tender-for-christmas-chunk-0008",
+        "tender-for-christmas-chunk-0010"
+      ],
+      "status": "waitingForAnalysis",
+      "citedProductIdArray": [],
+      "citedPersonIdArray": [],
+      "workspaceDocumentChunkIdArray": [],
+      "deliverableArray": [
+        {
+          "requirementId": "NODE-0013",
+          "bulletPoint": "Scheduled Maintenance",
+          "description": {
+            "en": "Scheduled Maintenance",
+            "de": "Planmäßige Wartung"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0008"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0026",
+              "bulletPoint": "Two scheduled maintenance run-throughs",
+              "description": {
+                "en": "The supplier must perform two scheduled run-throughs of the display to check functionality and attend to minor faults.",
+                "de": "Der Lieferant muss zwei planmäßige Durchläufe der Anzeige durchführen, um die Funktionsfähigkeit zu überprüfen und kleinere Fehler zu beheben."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0008"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        },
+        {
+          "requirementId": "NODE-0014",
+          "bulletPoint": "Fault Reporting & Repair",
+          "description": {
+            "en": "Fault Reporting & Repair",
+            "de": "Störungsmeldung & Reparatur"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0008",
+            "tender-for-christmas-chunk-0010"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0027",
+              "bulletPoint": "24-hour call-out for major faults",
+              "description": {
+                "en": "The supplier must provide a call-out within 24 hours for major faults including complete motif or light string failure, vandalism, storm, or road traffic accident damage.",
+                "de": "Der Lieferant muss innerhalb von 24 Stunden einen Bereitschaftsdienst für schwerwiegende Störungen bereitstellen, einschließlich vollständigem Ausfall eines Motivs oder einer Lichterkette, Vandalismus, Sturmschäden oder Schäden durch Verkehrsunfälle."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0008"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0028",
+              "bulletPoint": "State additional call-out charges on schedule",
+              "description": {
+                "en": "Additional call-out charges must be stated on the schedule.",
+                "de": "Zusätzliche Bereitschaftskosten müssen im Zeitplan angegeben werden."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0008"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0033",
+              "bulletPoint": "Notify BTC of defective items requiring major repair",
+              "description": {
+                "en": "The contractor must notify BTC immediately of any defective lights and features that require major repair at additional cost or that cannot be repaired, so replacement can be considered in good time.",
+                "de": "Der Auftragnehmer muss BTC unverzüglich über defekte Lichter und Funktionen informieren, die eine größere Reparatur zu zusätzlichen Kosten erfordern oder die nicht repariert werden können, damit ein Ersatz rechtzeitig in Betracht gezogen werden kann."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0010"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirementId": "NODE-0017",
+      "bulletPoint": "Dismantling & Storage",
+      "description": {
+        "en": "Dismantling & Storage",
+        "de": "Demontage & Lagerung"
+      },
+      "priority": "must",
+      "confidence": "high",
+      "equivalenceAllowed": null,
+      "fullfillable": "yes",
+      "procurementDocumentChunkIdArray": [
+        "tender-for-christmas-chunk-0009"
+      ],
+      "status": "waitingForAnalysis",
+      "citedProductIdArray": [],
+      "citedPersonIdArray": [],
+      "workspaceDocumentChunkIdArray": [],
+      "deliverableArray": [
+        {
+          "requirementId": "NODE-0016",
+          "bulletPoint": "Dismantling Schedule",
+          "description": {
+            "en": "Dismantling Schedule",
+            "de": "Demontagezeitplan"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0009"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0030",
+              "bulletPoint": "Dismantle and remove lights by 12 January",
+              "description": {
+                "en": "The lights must be dismantled and removed as soon as possible after 6 January each year, but no later than 12 January each year.",
+                "de": "Die Lichter müssen so bald wie möglich nach dem 6. Januar jedes Jahres, spätestens jedoch bis zum 12. Januar jedes Jahres, abgebaut und entfernt werden."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0009"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirementId": "NODE-0020",
+      "bulletPoint": "Documentation & Certifications",
+      "description": {
+        "en": "Documentation & Certifications",
+        "de": "Dokumentation & Zertifikate"
+      },
+      "priority": "must",
+      "confidence": "low",
+      "equivalenceAllowed": null,
+      "fullfillable": "yes",
+      "procurementDocumentChunkIdArray": [
+        "tender-for-christmas-chunk-0013",
+        "tender-for-christmas-chunk-0005"
+      ],
+      "status": "waitingForAnalysis",
+      "citedProductIdArray": [],
+      "citedPersonIdArray": [],
+      "workspaceDocumentChunkIdArray": [],
+      "deliverableArray": [
+        {
+          "requirementId": "NODE-0018",
+          "bulletPoint": "Technical Documentation",
+          "description": {
+            "en": "Technical Documentation",
+            "de": "Technische Dokumentation"
+          },
+          "priority": "must",
+          "confidence": "low",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0013"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0041",
+              "bulletPoint": "Provide details of proposed LEDs and product warranty",
+              "description": {
+                "en": "The supplier must provide details of the proposed LEDs and the product warranty.",
+                "de": "Der Lieferant muss Details zu den vorgeschlagenen LEDs und zur Produktgarantie vorlegen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0013"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            },
+            {
+              "requirementId": "REQ-0042",
+              "bulletPoint": "Provide any other pertinent documents/certificates",
+              "description": {
+                "en": "The supplier must provide any other pertinent documents or certificates as required.",
+                "de": "Der Lieferant muss alle anderen relevanten Dokumente oder Bescheinigungen vorlegen."
+              },
+              "priority": "must",
+              "confidence": "low",
+              "equivalenceAllowed": true,
+              "fullfillable": "no",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0013"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        },
+        {
+          "requirementId": "NODE-0019",
+          "bulletPoint": "Site Information",
+          "description": {
+            "en": "Site Information",
+            "de": "Standortinformationen"
+          },
+          "priority": "should",
+          "confidence": "low",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0005"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0020",
+              "bulletPoint": "Site visits and satisfaction of access and other necessary information",
+              "description": {
+                "en": "The contractor is expected to have made any necessary site visits and satisfied themselves of any access arrangements and any other necessary information required prior to submitting a tender, ensuring the tender is fully inclusive of all costs.",
+                "de": "Es wird erwartet, dass der Auftragnehmer vor Abgabe eines Angebots alle erforderlichen Standortbesichtigungen durchgeführt hat und sich über Zugangsregelungen und alle anderen notwendigen Informationen informiert hat, um sicherzustellen, dass das Angebot alle Kosten vollständig umfasst."
+              },
+              "priority": "should",
+              "confidence": "low",
+              "equivalenceAllowed": true,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0005"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirementId": "NODE-0022",
+      "bulletPoint": "General Requirements",
+      "description": {
+        "en": "General Requirements",
+        "de": "Allgemeine Anforderungen"
+      },
+      "priority": "must",
+      "confidence": "high",
+      "equivalenceAllowed": null,
+      "fullfillable": "yes",
+      "procurementDocumentChunkIdArray": [
+        "tender-for-christmas-chunk-0000"
+      ],
+      "status": "waitingForAnalysis",
+      "citedProductIdArray": [],
+      "citedPersonIdArray": [],
+      "workspaceDocumentChunkIdArray": [],
+      "deliverableArray": [
+        {
+          "requirementId": "NODE-0021",
+          "bulletPoint": "Contractual Obligations",
+          "description": {
+            "en": "Contractual Obligations",
+            "de": "Vertragliche Verpflichtungen"
+          },
+          "priority": "must",
+          "confidence": "high",
+          "equivalenceAllowed": null,
+          "fullfillable": "yes",
+          "procurementDocumentChunkIdArray": [
+            "tender-for-christmas-chunk-0000"
+          ],
+          "status": "waitingForAnalysis",
+          "citedProductIdArray": [],
+          "citedPersonIdArray": [],
+          "workspaceDocumentChunkIdArray": [],
+          "deliverableArray": [
+            {
+              "requirementId": "REQ-0001",
+              "bulletPoint": "Install, maintain, dismantle, and test Christmas lights",
+              "description": {
+                "en": "The contractor must provide installation, maintenance, dismantling, and testing of the Christmas lights.",
+                "de": "Der Auftragnehmer muss die Installation, Wartung, Demontage und Prüfung der Weihnachtsbeleuchtung durchführen."
+              },
+              "priority": "must",
+              "confidence": "high",
+              "equivalenceAllowed": false,
+              "fullfillable": "yes",
+              "procurementDocumentChunkIdArray": [
+                "tender-for-christmas-chunk-0000"
+              ],
+              "status": "waitingForAnalysis",
+              "citedProductIdArray": [],
+              "citedPersonIdArray": [],
+              "workspaceDocumentChunkIdArray": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalL1Nodes": 7,
+    "totalL2Nodes": 15,
+    "totalL3Leaves": 42,
+    "totalChunksReferenced": 13,
+    "averageChunksPerLeaf": 1.0238095238095237,
+    "confidenceDistribution": {
+      "high": 38,
+      "medium": 1,
+      "low": 3
+    }
+  }
+}

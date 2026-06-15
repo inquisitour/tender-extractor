@@ -1,0 +1,25 @@
+{
+  "name": "tender-extractor",
+  "version": "1.0.0",
+  "description": "Procurement tender document extraction with requirement consolidation",
+  "main": "src/main.ts",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "dev": "tsx watch src/main.ts",
+    "extract": "tsx src/main.ts"
+  },
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2",
+    "dotenv": "^16.4.5",
+    "openai": "^4.47.1",
+    "pino": "^9.2.0",
+    "pino-pretty": "^11.2.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "tsx": "^4.15.4",
+    "typescript": "^5.4.5"
+  }
+}
