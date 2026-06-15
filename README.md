@@ -26,11 +26,7 @@ npm install --ignore-scripts
 
 **Configure**
 
-```bash
-cp .env .env.local   # or just edit .env directly
-```
-
-Set your `DEEPSEEK_API_KEY` in `.env`. The other values can stay as defaults.
+Set `DEEPSEEK_API_KEY` in `.env`.
 
 ---
 
