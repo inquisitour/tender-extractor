@@ -63,7 +63,7 @@ export const ProcurementMatchDeliverableSchema: z.ZodType<ProcurementMatchDelive
       status: StatusSchema,
 
       // LLM reasoning trace: for auditability
-      aiReasoning: z.string().optional(),
+      aiReasoning: LocaleObjectSchema.nullable(),
 
       // Human review feedback: set externally
       feedback: z.enum(["good", "bad"]).nullable().optional(),
@@ -94,7 +94,7 @@ export type ProcurementMatchDeliverable = {
   fullfillable: "yes" | "no" | "maybe" | null;
   procurementDocumentChunkIdArray: string[];
   status: Status;
-  aiReasoning?: string;
+  aiReasoning : LocaleObject | null;
   feedback?: "good" | "bad" | null;
   feedbackText?: string | null;
   openQuestionId?: string;

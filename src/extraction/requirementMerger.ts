@@ -9,8 +9,8 @@ import { loadFromCache, saveToCache } from "../ingestion/cache.js";
 import { createLogger, withTiming } from "../utils/logger.js";
 
 const log = createLogger("requirementMerger");
-const SIMILARITY_THRESHOLD = 0.82; // Cosine similarity above which we check for merge
-const MAX_LLM_MERGE_CHECKS = 200;  // Safety cap: large tenders could generate many pairs
+const SIMILARITY_THRESHOLD = 0.78; // Cosine similarity above which we check for merge
+const MAX_LLM_MERGE_CHECKS = 500;  // Safety cap: large tenders could generate many pairs
 
 // Zod schema for LLM merge decision
 const MergeDecisionSchema = z.object({
